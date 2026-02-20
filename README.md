@@ -20,6 +20,7 @@
 - [Secureframe](https://secureframe.com) - Compliance automation with high-touch guidance for complex multi-framework environments.
 - [Sprinto](https://sprinto.com) - AI-driven compliance automation platform with risk-based prioritization and continuous control monitoring.
 - [Thoropass](https://thoropass.com) - End-to-end compliance platform combining automation software with auditor services.
+- [DatFlash](https://github.com/datflash-oss/dataset-transaction-tracker) – Tracks publicly reported dataset transactions, releases, and changes relevant to AI governance and data evaluation.
 
 ### AI Audit Tools
 
