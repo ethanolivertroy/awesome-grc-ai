@@ -20,6 +20,7 @@
 - [Secureframe](https://secureframe.com) - Compliance automation with high-touch guidance for complex multi-framework environments.
 - [Sprinto](https://sprinto.com) - AI-driven compliance automation platform with risk-based prioritization and continuous control monitoring.
 - [Thoropass](https://thoropass.com) - End-to-end compliance platform combining automation software with auditor services.
+- [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk) - Open-source Python SDK (Apache-2.0) generating EU AI Act and ISO 42001 compliance evidence from ML pipelines. Produces OSCAL Assessment Results, CycloneDX ML BOM, bias audits, and Annex IV technical documentation.
 
 ### AI Audit Tools
 
