@@ -74,6 +74,7 @@
 - [Alation](https://alation.com) - Data catalog with ML-powered discovery, governance, and compliance for AI/ML data pipelines.
 - [Immuta](https://immuta.com) - Data access control platform with policy-based governance for sensitive data used in ML training.
 - [DataRobot MLOps](https://datarobot.com/platform/mlops) - End-to-end ML operations with model governance, monitoring, and compliance tracking.
+- [AI Data Watch: HIPAA BAA Tracker](https://baa-atlas.vercel.app/ai/hipaa) - Cited, date-stamped reference of which AI tools sign a HIPAA Business Associate Agreement and on which plan tier, so GRC teams can judge whether an AI vendor is usable with regulated health data.
 
 ## Training and Certifications
 
