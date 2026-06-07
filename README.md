@@ -32,6 +32,7 @@
 - [LogicGate](https://logicgate.com) - Risk Cloud platform with AI-driven risk quantification and automated control assessments.
 - [Resolver](https://resolver.com) - Integrated risk intelligence platform with AI-powered risk correlation and predictive analytics.
 - [ServiceNow GRC](https://servicenow.com/products/governance-risk-compliance.html) - Enterprise GRC with AI-driven risk insights and automated policy management.
+- [Signato AI Act Readiness Quiz](https://signato.ai/quiz) - Free 2-minute self-assessment of EU AI Act exposure for HR and compliance teams.
 
 ### LLM Integrations
 
