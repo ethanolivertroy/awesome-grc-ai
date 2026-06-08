@@ -27,6 +27,7 @@
 - [Workiva](https://workiva.com) - Cloud platform for audit, risk, and compliance with AI-assisted document analysis and reporting.
 - [MindBridge](https://mindbridge.ai) - AI-powered financial audit analytics detecting anomalies and risks in transactional data.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Compliance audit trail MCP server for AI agent actions via immutable Solana ledger receipts. Verify AI agent identity and generate cryptographic trust receipts for GRC and EU AI Act compliance workflows. Tools: score_agent(wallet), preflight_check(wallet), get_trust_receipt(wallet). Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ### Risk Assessment
 
 - [LogicGate](https://logicgate.com) - Risk Cloud platform with AI-driven risk quantification and automated control assessments.
