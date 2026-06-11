@@ -30,6 +30,7 @@
 ### Risk Assessment
 
 - [LogicGate](https://logicgate.com) - Risk Cloud platform with AI-driven risk quantification and automated control assessments.
+- [Regula](https://github.com/kuzivaai/getregula) - Open-source static analysis CLI that classifies code against EU AI Act risk tiers and maps findings to compliance frameworks.
 - [Resolver](https://resolver.com) - Integrated risk intelligence platform with AI-powered risk correlation and predictive analytics.
 - [ServiceNow GRC](https://servicenow.com/products/governance-risk-compliance.html) - Enterprise GRC with AI-driven risk insights and automated policy management.
 
