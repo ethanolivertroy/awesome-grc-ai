@@ -20,6 +20,7 @@
 - [Secureframe](https://secureframe.com) - Compliance automation with high-touch guidance for complex multi-framework environments.
 - [Sprinto](https://sprinto.com) - AI-driven compliance automation platform with risk-based prioritization and continuous control monitoring.
 - [Thoropass](https://thoropass.com) - End-to-end compliance platform combining automation software with auditor services.
+- [heygrc](https://heygrc.com) - GitHub App that reviews pull requests against compliance frameworks (ISO 27001, SOC 2, GDPR, EU AI Act, and more), flags changes that put a control at risk, and says what to fix, citing the control clause (Commercial).
 
 ### AI Audit Tools
 
