@@ -20,6 +20,7 @@
 - [Secureframe](https://secureframe.com) - Compliance automation with high-touch guidance for complex multi-framework environments.
 - [Sprinto](https://sprinto.com) - AI-driven compliance automation platform with risk-based prioritization and continuous control monitoring.
 - [Thoropass](https://thoropass.com) - End-to-end compliance platform combining automation software with auditor services.
+- [Responsible AI Studio](https://app.responsibleaistudio.com) - AI governance document generator producing jurisdiction-specific AI policies, risk registers, gap analyses, and bias audits aligned to the EU AI Act, NIST AI RMF, and ISO 42001. Self-serve, one-time pricing; free readiness score.
 
 ### AI Audit Tools
 
