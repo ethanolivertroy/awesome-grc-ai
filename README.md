@@ -26,6 +26,7 @@
 - [AuditBoard](https://auditboard.com) - Connected risk platform with AI-powered audit management, SOX compliance, and risk assessment.
 - [Workiva](https://workiva.com) - Cloud platform for audit, risk, and compliance with AI-assisted document analysis and reporting.
 - [MindBridge](https://mindbridge.ai) - AI-powered financial audit analytics detecting anomalies and risks in transactional data.
+- [Nobulex](https://github.com/arian-gogani/nobulex) - Open-source cryptographic receipt layer for AI agent actions. Emits Ed25519-signed, JCS-canonical (RFC 8785) bilateral receipts (admission + outcome) verifiable against the agent's published public key. Targets EU AI Act Article 12 audit-trail requirements. Cited in OWASP CheatSheetSeries and Microsoft AGT ecosystem. MIT licensed.
 
 ### Risk Assessment
 
