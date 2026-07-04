@@ -15,7 +15,7 @@
 
 ### Compliance Automation
 
-- [GRC_Claw](https://github.com/AAH20/GRC_Claw) - Open-source, MIT-licensed GRC engine with native ISO 42001 AI Management System and EU AI Act risk classification built in, plus an AI Agent Registry, runtime Policy Firewall, and hash-chained Attestation Ledger for governing autonomous agents directly.
+- [GRC_Claw](https://github.com/AAH20/GRC_Claw) - Open-source GRC engine with native ISO 42001 and EU AI Act compliance, plus a governance layer for autonomous AI agents.
 - [Drata](https://drata.com) - Automated compliance platform with AI-powered security questionnaire responses and real-time monitoring for SOC 2, ISO 27001, and HIPAA.
 - [Vanta](https://vanta.com) - Lightweight compliance automation for startups supporting 30+ frameworks with evidence collection and monitoring.
 - [Secureframe](https://secureframe.com) - Compliance automation with high-touch guidance for complex multi-framework environments.
