@@ -26,6 +26,7 @@
 - [AuditBoard](https://auditboard.com) - Connected risk platform with AI-powered audit management, SOX compliance, and risk assessment.
 - [Workiva](https://workiva.com) - Cloud platform for audit, risk, and compliance with AI-assisted document analysis and reporting.
 - [MindBridge](https://mindbridge.ai) - AI-powered financial audit analytics detecting anomalies and risks in transactional data.
+- [Markovian audit-anchor](https://github.com/MarkovianProtocol/audit-anchor) - Open-source tool for tamper-evident, independently verifiable audit trails, anchored via RFC 3161/OpenTimestamps and verifiable offline. Relevant to record-keeping duties such as EU AI Act Article 12.
 
 ### Risk Assessment
 
