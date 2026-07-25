@@ -20,6 +20,7 @@
 - [Secureframe](https://secureframe.com) - Compliance automation with high-touch guidance for complex multi-framework environments.
 - [Sprinto](https://sprinto.com) - AI-driven compliance automation platform with risk-based prioritization and continuous control monitoring.
 - [Thoropass](https://thoropass.com) - End-to-end compliance platform combining automation software with auditor services.
+- [LLM ISO27001](https://github.com/kriss-b/llm-iso27001) - Open source ISO 27001 (+ 42001 + NIS2) ISMS designed to be entirely operated by a LLM Agent
 
 ### AI Audit Tools
 
