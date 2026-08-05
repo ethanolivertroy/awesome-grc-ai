@@ -20,6 +20,7 @@
 - [Secureframe](https://secureframe.com) - Compliance automation with high-touch guidance for complex multi-framework environments.
 - [Sprinto](https://sprinto.com) - AI-driven compliance automation platform with risk-based prioritization and continuous control monitoring.
 - [Thoropass](https://thoropass.com) - End-to-end compliance platform combining automation software with auditor services.
+- [CATAAM](https://cataam.com) - AI-native GRC platform automating SOC 2, ISO 27001 and ISO 42001 (AI management systems), with AI-system governance, prompt/secret-leak prevention (Prompt Guard), and continuous control monitoring; commercial with a free trial.
 
 ### AI Audit Tools
 
