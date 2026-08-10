@@ -38,6 +38,7 @@
 - [Claude for Enterprise](https://anthropic.com/claude) - AI assistant for policy analysis, compliance document review, and risk assessment workflows.
 - [Microsoft Copilot for Security](https://microsoft.com/security/business/ai-machine-learning/microsoft-copilot-security) - AI-powered security operations with threat intelligence and compliance guidance.
 - [ChatGPT Enterprise](https://openai.com/enterprise) - Secure AI assistant for GRC document analysis, policy drafting, and audit preparation.
+- [ISMS Copilot](https://www.ismscopilot.com/) - Specialized AI assistant for ISO 27001, SOC 2, NIS 2, GDPR, DORA, and related frameworks: policy drafting, risk assessments, control mapping, audit prep. Optional EU-region AI mode. Free tools: [ismscopilot.com/resources](https://www.ismscopilot.com/resources).
 
 ## AI Governance Frameworks
 
