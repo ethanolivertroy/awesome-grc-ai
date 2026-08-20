@@ -20,6 +20,7 @@
 - [Secureframe](https://secureframe.com) - Compliance automation with high-touch guidance for complex multi-framework environments.
 - [Sprinto](https://sprinto.com) - AI-driven compliance automation platform with risk-based prioritization and continuous control monitoring.
 - [Thoropass](https://thoropass.com) - End-to-end compliance platform combining automation software with auditor services.
+- [StandardOS](https://getstandardos.com) - ISO 27001 and ISO 42001 (AI Management) compliance software with transparent control mapping and fixed pricing.
 
 ### AI Audit Tools
 
