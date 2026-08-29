@@ -26,7 +26,7 @@
 - [AuditBoard](https://auditboard.com) - Connected risk platform with AI-powered audit management, SOX compliance, and risk assessment.
 - [Workiva](https://workiva.com) - Cloud platform for audit, risk, and compliance with AI-assisted document analysis and reporting.
 - [MindBridge](https://mindbridge.ai) - AI-powered financial audit analytics detecting anomalies and risks in transactional data.
-- [Sentinel Scan CLI](https://github.com/Ventrova/sentinel-scan-cli) - Open-source CLI for auditing MCP servers and agentic AI tool manifests. Detects tool poisoning, prompt injection surface, and rug-pulls; OWASP LLM Top 10-mapped findings. MIT, free.
+- [Sentinel Scan CLI](https://github.com/Ventrova/sentinel-scan-cli) - Open-source CLI for static scanning of MCP tool manifests and mcpServers configurations (no runtime execution). Detects tool poisoning, prompt injection surface, and rug-pulls; OWASP LLM Top 10-mapped findings. MIT, free. (Disclosure: maintained by the project author.)
 
 ### Risk Assessment
 
