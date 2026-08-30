@@ -116,7 +116,7 @@ Ready-to-use Claude prompts for GRC compliance workflows. See the [`prompts/`](p
 
 Customizable policy templates for AI governance. See the [`templates/`](templates/) directory for customization instructions.
 
-- [BrandQuill Small Business AI Policy Template](https://github.com/loebpaul/small-business-ai-policy-template) - Free editable Word policy pack covering approved AI tools, confidential data, human review, prohibited uses, incidents, and employee acknowledgement.
+- [Small Business AI Acceptable Use Policy Template](https://github.com/loebpaul/small-business-ai-policy-template) - Free editable Word policy pack covering approved AI tools, confidential data, human review, prohibited uses, incidents, and employee acknowledgement.
 - AI Acceptable Use Policy - Guidelines for acceptable use of AI technologies (NIST AI RMF, ISO 42001)
 - AI Risk Assessment Framework - Structured framework for identifying and mitigating AI risks (NIST AI RMF)
 - Model Development Lifecycle Standard - Governance checkpoints for ML model development (MLOps, ISO 42001)
