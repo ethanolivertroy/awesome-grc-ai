@@ -98,6 +98,7 @@
 - [LinkedIn Learning GRC Path](https://linkedin.com/learning/topics/governance-risk-and-compliance) - Curated learning path for GRC fundamentals including risk assessment and audit.
 - [Pluralsight Security Compliance](https://pluralsight.com/browse/information-cyber-security/compliance) - Technical compliance training for security professionals entering GRC.
 - [ISACA Learning](https://isaca.org/training-and-events) - Professional development in audit, risk, governance, and cybersecurity.
+- [RansomLeak Compliance Training](https://ransomleak.com/catalogue/privacy-compliance/) - Interactive employee training mapped to GDPR, EU AI Act, NIS2, ISO 27001, HIPAA, and SOC 2 awareness requirements.
 
 ## Prompts
 
