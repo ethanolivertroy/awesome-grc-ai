@@ -26,6 +26,7 @@
 - [AuditBoard](https://auditboard.com) - Connected risk platform with AI-powered audit management, SOX compliance, and risk assessment.
 - [Workiva](https://workiva.com) - Cloud platform for audit, risk, and compliance with AI-assisted document analysis and reporting.
 - [MindBridge](https://mindbridge.ai) - AI-powered financial audit analytics detecting anomalies and risks in transactional data.
+- [Speakeasy AI Control Plane](https://www.speakeasy.com/product/ai-control-plane) - Commercial AI control plane for governing agent and MCP access with policy enforcement and searchable tool-call audit records.
 
 ### Risk Assessment
 
