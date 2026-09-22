@@ -53,6 +53,7 @@
 - [Berryville Institute of Machine Learning](https://berryvilleiml.com) - Architectural risk analysis framework and taxonomy for identifying ML and LLM security risks.
 - [MIT AI Risk Repository](https://airisk.mit.edu) - Searchable database of 700+ AI risks with causal taxonomies for comprehensive risk assessment.
 - [Cloud Security Alliance AI Controls](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix) - Security controls framework for AI deployments in cloud environments with shared responsibility guidance.
+- [Screening Decisions Profile](https://github.com/Allowly-AI/screening-decisions-profile) - Open specification and validators for signed employment-screening decisions, reviews, overrides, corrections, and audit exports (spec CC BY 4.0; validator code Apache 2.0).
 
 ### Responsible AI
 
