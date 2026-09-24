@@ -53,6 +53,7 @@
 - [Berryville Institute of Machine Learning](https://berryvilleiml.com) - Architectural risk analysis framework and taxonomy for identifying ML and LLM security risks.
 - [MIT AI Risk Repository](https://airisk.mit.edu) - Searchable database of 700+ AI risks with causal taxonomies for comprehensive risk assessment.
 - [Cloud Security Alliance AI Controls](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix) - Security controls framework for AI deployments in cloud environments with shared responsibility guidance.
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - Open (CC BY 4.0) database of 354 sourced AI agent security records, including 70 agent-specific policy entries, that separates confirmed harm from researcher demonstrations.
 
 ### Responsible AI
 
