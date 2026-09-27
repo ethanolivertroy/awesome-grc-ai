@@ -53,6 +53,7 @@
 - [Berryville Institute of Machine Learning](https://berryvilleiml.com) - Architectural risk analysis framework and taxonomy for identifying ML and LLM security risks.
 - [MIT AI Risk Repository](https://airisk.mit.edu) - Searchable database of 700+ AI risks with causal taxonomies for comprehensive risk assessment.
 - [Cloud Security Alliance AI Controls](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix) - Security controls framework for AI deployments in cloud environments with shared responsibility guidance.
+- [Four-Way Framework Crosswalk](https://annexwright.com/iso-42001-crosswalk/Four-Way-Framework-Crosswalk.xlsx) - Free Excel workbook mapping ISO/IEC 42001 controls to NIST AI RMF subcategories, EU AI Act articles, and ISO/IEC 27001 controls.
 
 ### Responsible AI
 
