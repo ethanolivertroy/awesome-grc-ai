@@ -67,6 +67,8 @@
 - [Weights & Biases](https://wandb.ai) - ML experiment tracking and model management platform with versioning, lineage, and collaboration features.
 - [Fiddler AI](https://fiddler.ai) - Model performance monitoring and explainability platform for detecting drift, bias, and compliance issues.
 - [Arthur AI](https://arthur.ai) - ML monitoring platform providing model performance, fairness, and explainability insights for production systems.
+- [agent-access-review](https://github.com/Mihirajmera/agent-access-review) - Open-source (MIT) access reviews for AI agents and MCP servers with reviewer sign-off, hashed evidence and OSCAL output.
+- [llm-redteam-evidence](https://github.com/Mihirajmera/llm-redteam-evidence) - Open-source (MIT) tool that converts LLM red-team results into control-level evidence against risk tolerances, with OSCAL output and a model-release regression gate.
 
 ### Data Governance for AI
 
