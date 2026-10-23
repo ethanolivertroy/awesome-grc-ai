@@ -20,6 +20,7 @@
 - [Secureframe](https://secureframe.com) - Compliance automation with high-touch guidance for complex multi-framework environments.
 - [Sprinto](https://sprinto.com) - AI-driven compliance automation platform with risk-based prioritization and continuous control monitoring.
 - [Thoropass](https://thoropass.com) - End-to-end compliance platform combining automation software with auditor services.
+- [Agent Index](https://theagentindex.io) - Free, sourced directory of AI-powered compliance, security and risk tools, with each listing mapped to frameworks such as SOC 2, ISO 27001, HIPAA and DPDP.
 
 ### AI Audit Tools
 
