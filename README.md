@@ -118,6 +118,7 @@ Customizable policy templates for AI governance. See the [`templates/`](template
 
 - AI Acceptable Use Policy - Guidelines for acceptable use of AI technologies (NIST AI RMF, ISO 42001)
 - AI Risk Assessment Framework - Structured framework for identifying and mitigating AI risks (NIST AI RMF)
+- [AI Trust Pack – Free Sample](https://meridianjosh.gumroad.com/l/shpmwo) - 5 AI security-questionnaire questions with strong and honest 'partial' answer options for small SaaS vendors (Word + PDF). Free (pay-what-you-want) sample of a paid pack.
 - Model Development Lifecycle Standard - Governance checkpoints for ML model development (MLOps, ISO 42001)
 
 ## Scripts
