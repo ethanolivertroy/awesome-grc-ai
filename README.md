@@ -20,6 +20,7 @@
 - [Secureframe](https://secureframe.com) - Compliance automation with high-touch guidance for complex multi-framework environments.
 - [Sprinto](https://sprinto.com) - AI-driven compliance automation platform with risk-based prioritization and continuous control monitoring.
 - [Thoropass](https://thoropass.com) - End-to-end compliance platform combining automation software with auditor services.
+- [Attestlane](https://attestlane.to) - SOC 2 readiness for 1-50 person B2B software teams, with AI-drafted policies for the team to review, a 39-item evidence checklist, and an auditor-ready package (commercial: free assessment, then $99-$299/month).
 
 ### AI Audit Tools
 
