@@ -67,6 +67,7 @@
 - [Weights & Biases](https://wandb.ai) - ML experiment tracking and model management platform with versioning, lineage, and collaboration features.
 - [Fiddler AI](https://fiddler.ai) - Model performance monitoring and explainability platform for detecting drift, bias, and compliance issues.
 - [Arthur AI](https://arthur.ai) - ML monitoring platform providing model performance, fairness, and explainability insights for production systems.
+- [FairMind](https://github.com/adhit-r/fairmind) - Open-source (MIT) agentic AI governance platform that runs evaluations with a human approval at each gate, records every step on a hash-chained ledger, and maps evidence to 51 frameworks including the EU AI Act, NIST AI RMF and ISO/IEC 42001, with offline-verifiable evidence packs for auditors.
 
 ### Data Governance for AI
 
