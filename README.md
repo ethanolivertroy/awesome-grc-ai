@@ -46,6 +46,7 @@
 - [NIST AI Risk Management Framework](https://nist.gov/itl/ai-risk-management-framework) - Voluntary US framework for identifying, assessing, and mitigating AI risks with four core functions (Govern, Map, Measure, Manage).
 - [EU AI Act](https://artificialintelligenceact.eu) - European regulation establishing risk-based AI requirements with prohibited practices, high-risk obligations, and transparency rules.
 - [ISO/IEC 42001](https://iso.org/standard/81230.html) - International standard for AI Management Systems (AIMS) providing certification framework for responsible AI governance.
+- [AIMS Starter Kit for ISO/IEC 42001:2023](https://github.com/brivellis/aims-starter-kit-iso42001) - Free editable templates for implementing an ISO/IEC 42001 AI management system, including an AI system inventory, risk and impact assessment registers and a fictional worked example (no sign-up).
 - [OECD AI Principles](https://oecd.ai/en/ai-principles) - International guidelines for trustworthy AI covering human-centered values, transparency, and accountability.
 - [Singapore Model AI Governance Framework](https://pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework) - Practical guidance for deploying AI responsibly with implementation examples.
 - [MITRE ATLAS](https://atlas.mitre.org) - Knowledge base of adversarial tactics and techniques specific to AI systems for threat modeling and security assessment.
