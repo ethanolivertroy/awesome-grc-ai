@@ -53,6 +53,7 @@
 - [Berryville Institute of Machine Learning](https://berryvilleiml.com) - Architectural risk analysis framework and taxonomy for identifying ML and LLM security risks.
 - [MIT AI Risk Repository](https://airisk.mit.edu) - Searchable database of 700+ AI risks with causal taxonomies for comprehensive risk assessment.
 - [Cloud Security Alliance AI Controls](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix) - Security controls framework for AI deployments in cloud environments with shared responsibility guidance.
+- [AI Governance Kit](https://github.com/olgarkadieva-byte/ai-governance-kit) - Open-source library of 34 AI controls mapped to NIST AI RMF, ISO/IEC 42001 and the EU AI Act, with risk scoring and EU AI Act tier screening (CC BY-NC 4.0).
 
 ### Responsible AI
 
