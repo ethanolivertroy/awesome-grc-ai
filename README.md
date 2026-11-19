@@ -67,6 +67,7 @@
 - [Weights & Biases](https://wandb.ai) - ML experiment tracking and model management platform with versioning, lineage, and collaboration features.
 - [Fiddler AI](https://fiddler.ai) - Model performance monitoring and explainability platform for detecting drift, bias, and compliance issues.
 - [Arthur AI](https://arthur.ai) - ML monitoring platform providing model performance, fairness, and explainability insights for production systems.
+- [AI Impact Measurement](https://github.com/olgarkadieva-byte/ai-impact-measurement) - Open-source tool that measures adoption, time saved, cost and ROI of AI tools against a control group, with a keep, fix or retire verdict (CC BY-NC 4.0).
 
 ### Data Governance for AI
 
